@@ -1,0 +1,1 @@
+Garden-Finitely is a full suite of apps for home gardeners and professionals alike. 
