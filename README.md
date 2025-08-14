@@ -12,9 +12,15 @@ The applications are designed to be simple and intuitive enough that a casual ga
 
 ## Future Additions
 [Garden Planner](#garden-planner)  
+<<<<<<< HEAD
 [Garden Connect](#garden-connect)  
 [Nature Capture ](#nature-capture)  
 [Garden Automator](#garden-automator)  
+=======
+[Garden Connect](#garden-connect)
+[Nature Capture ](#nature-capture)
+[Garden Automator](#garden-automator)
+>>>>>>> 500edd75f7b57c90d4c43081aad9edf04ad0d68c
 
 ## Information about Individual Applications
 ### Garden Calendar Generator CLI
@@ -40,3 +46,4 @@ Our goal for version 3 (or two, if we can squeeze it in) will include uploading 
 We get it, gardening isn't for everyone. Some people want all of the rewards of gardening without to do the work. 
 Let's work together to make that possible.
 We're aiming to ultimately produce a gardening robot that is affordable for home growers, and that pairs with our suite of apps to make gardening easier than ever for home gardeners and small growers.
+
