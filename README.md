@@ -11,10 +11,10 @@ The applications are designed to be simple and intuitive enough that a casual ga
 [Garden Calendar Generator App](#garden-calendar-generator-app)
 
 ## Future Additions
-[Garden Planner](#garden-planner)
-[Garden Connect](#garden-connect)
-[Nature Capture ](#nature-capture)
-[Garden Automator](#garden-automator)
+[Garden Planner](#garden-planner)  
+[Garden Connect](#garden-connect)  
+[Nature Capture ](#nature-capture)  
+[Garden Automator](#garden-automator)  
 
 ## Information about Individual Applications
 ### Garden Calendar Generator CLI
